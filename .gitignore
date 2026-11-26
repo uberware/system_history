@@ -1,0 +1,4 @@
+# Built app bundle (rebuild with ./build.sh)
+*.app/
+.DS_Store
+._*
